@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd:*)",
+      "Bash(wmic computersystem:*)",
+      "Bash(wmic cpu:*)"
+    ]
+  }
+}
